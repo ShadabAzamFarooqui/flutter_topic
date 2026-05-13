@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/shadab.azam/Desktop/learning/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.11.1"
+    buildFolder="/Users/shadab.azam/Desktop/learning/build/app"
+    bootClassPath="/Users/shadab.azam/Library/Android/sdk/platforms/android-36/android.jar:/Users/shadab.azam/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
